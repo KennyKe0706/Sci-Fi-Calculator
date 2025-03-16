@@ -1,7 +1,5 @@
 # Sci-Fi Scientific Calculator
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 
 A web-based scientific calculator with a cool sci-fi interface, featuring functionality similar to the Casio fx-991CN X.
 
@@ -27,7 +25,7 @@ A web-based scientific calculator with a cool sci-fi interface, featuring functi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sci-fi-calculator.git
+git clone https://github.com/KennyKe0706/sci-fi-calculator.git
 ```
 
 2. Open the project:
@@ -93,26 +91,12 @@ calculator/
 - CSS Grid for button layout
 - Scientific calculation functions and 2nd mode toggle
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-Issues and feature requests are welcome! If you want to contribute:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📮 Contact
 
 If you have any questions or suggestions, feel free to reach out:
 
-- Project Issues page
-- Email: your.email@example.com
+- Email: kezixuan1@gmail.com
 
 ## 🙏 Acknowledgments
 
